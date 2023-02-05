@@ -1,0 +1,9 @@
+#gallery {
+    height: 600px;
+    width: 800px;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
